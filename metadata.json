@@ -1,0 +1,7 @@
+{
+  "name": "Lance Certo — Edição Esportiva",
+  "description": "Edição esportiva profissional para atletas de futebol. DVDs, highlights, flyers e materiais visuais para atletas profissionais e categorias de base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
